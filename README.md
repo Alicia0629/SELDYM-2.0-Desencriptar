@@ -5,7 +5,7 @@ Programa empleado para desencriptar mensajes cifrados en SELDYM 2.0, sabiendo la
 Python 3
 
 # Uso del sistema de encriptación
-Este sistema de encriptación se puede usar ejecutandolo en la terminal de su ordenador si usted tiene descargado python3, además es importante que en la misma carpeta dónde guarde el código de programación tenga los archivos tabla256caracteres.txt y tabla96caracteres.txt. Además puede ejecutarlo en este link sin tener que realizar ninguna descarga https://repl.it/@AliciaG1/SELDYM-20-Desencriptar#README.txt
+Este sistema de encriptación se puede usar ejecutandolo en la terminal de su ordenador si usted tiene descargado python3, además es importante que en la misma carpeta dónde guarde el código de programación tenga los archivos tabla256caracteres.txt y tabla96caracteres.txt. Además puede ejecutarlo en este link sin tener que realizar ninguna descarga https://repl.it/@AliciaG1/SELDYM-20-Desencriptar#main.py
 
 # Licencia
 Creative Commons Attribution 4.0 International Public License
